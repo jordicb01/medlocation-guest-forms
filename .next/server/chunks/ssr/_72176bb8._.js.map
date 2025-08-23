@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 6, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":"","debugId":null}},
+    {"offset": {"line": 24, "column": 0}, "map": {"version":3,"sources":["file:///Users/jordi/Desktop/PRJCTS/NextJS%20Apps/medlocation-guest-forms/src/app/%28dashboard%29/page.tsx"],"sourcesContent":["import { headers } from \"next/headers\";\nimport { redirect } from \"next/navigation\";\n\nimport { auth } from \"../lib/auth\";\n\nimport HomeView from \"../modules/home/ui/views/homeView\";\n\nexport default async function Home() {\n  const session = await auth.api.getSession({\n    headers: await headers(),\n  })\n\n  if (!session) {\n    redirect(\"/sign-in\");\n  }\n\n  return (\n    <HomeView />\n  );\n}\n"],"names":[],"mappings":";;;;AAAA;AACA;AAAA;;;;;;;;;;;;;;;;AAMe,eAAe;IAC5B,MAAM,UAAU,MAAM,KAAK,GAAG,CAAC,UAAU,CAAC;QACxC,SAAS,MAAM,CAAA,GAAA,+HAAA,CAAA,UAAO,AAAD;IACvB;IAEA,IAAI,CAAC,SAAS;QACZ,CAAA,GAAA,qLAAA,CAAA,WAAQ,AAAD,EAAE;IACX;IAEA,qBACE,8OAAC;;;;;AAEL","debugId":null}}]
+}

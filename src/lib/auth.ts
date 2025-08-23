@@ -53,8 +53,9 @@ export const auth = betterAuth({
             return {
                 session,
                 user: {
-                    ...user, // Keeps default fields like id
-                    firstName: dbUser.firstName, // ✨ Merges all fields from your 'users' table
+                    ...user,
+                    firstName: dbUser.firstName,
+                    lastName: dbUser.lastName,
                 },
             };
         }),
