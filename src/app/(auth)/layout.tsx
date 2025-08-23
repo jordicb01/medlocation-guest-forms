@@ -1,5 +1,7 @@
-import { Card, CardContent } from "@/src/components/ui/card"
 import React from "react"
+import Image from "next/image";
+
+import { Card, CardContent } from "@/src/components/ui/card"
 
 interface Props {
     children: React.ReactNode;
@@ -13,12 +15,22 @@ const layout = ({ children }: Props) => {
                     <Card className="overflow-hidden p-0">
                         <CardContent className="grid p-0 md:grid-cols-2">
                             {children}
-                            <div className="bg-muted relative hidden md:block">
+                            {/* <div className="bg-muted relative hidden md:block">
                                 <img
-                                    src="/placeholder.svg"
+                                    src="/medlocation_login.png"
                                     alt="Image"
                                     className="absolute inset-0 h-full w-full object-cover dark:brightness-[0.2] dark:grayscale"
                                 />
+                            </div> */}
+                            <div className="border-l-1 border-l-sidebar-border bg-radial from-sidebar-accent to-gray-400 relative hidden md:flex flex-col gap-y-4 items-center justify-center">
+                                <img
+                                    src="/hublocation.svg"
+                                    alt="Image"
+                                    className="h-[92px] w-[92px]"
+                                />
+                                <p className="text-2xl font-semibold">
+                                    Hublocation
+                                </p>
                             </div>
                         </CardContent>
                     </Card>
