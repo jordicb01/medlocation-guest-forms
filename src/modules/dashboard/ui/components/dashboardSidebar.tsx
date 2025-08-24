@@ -65,7 +65,6 @@ const DashboardSidebar = () => {
             </SidebarHeader>
             <SidebarContent>
                 <SidebarGroup>
-                    <SidebarGroupLabel>Application</SidebarGroupLabel>
                     <SidebarGroupContent>
                         <SidebarMenu>
                             {sidebarItems.map((item) => (

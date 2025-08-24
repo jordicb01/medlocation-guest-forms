@@ -25,6 +25,7 @@
     "better-auth": "^1.2.12",
     "class-variance-authority": "^0.7.1",
     "clsx": "^2.1.1",
+    "cmdk": "^1.1.1",
     "dotenv": "^17.0.1",
     "drizzle-orm": "^0.44.2",
     "lucide-react": "^0.541.0",
@@ -33,6 +34,7 @@
     "react-dom": "^19.0.0",
     "react-hook-form": "^7.60.0",
     "tailwind-merge": "^3.3.1",
+    "vaul": "^1.1.2",
     "zod": "^3.25.74"
   },
   "devDependencies": {
