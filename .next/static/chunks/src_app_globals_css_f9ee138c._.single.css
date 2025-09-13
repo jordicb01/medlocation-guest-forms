@@ -97,8 +97,6 @@
     --text-base--line-height: calc(1.5 / 1);
     --text-lg: 1.125rem;
     --text-lg--line-height: calc(1.75 / 1.125);
-    --text-xl: 1.25rem;
-    --text-xl--line-height: calc(1.75 / 1.25);
     --text-2xl: 1.5rem;
     --text-2xl--line-height: calc(2 / 1.5);
     --font-weight-normal: 400;
@@ -646,10 +644,6 @@
     width: 100px;
   }
 
-  .w-\[240px\] {
-    width: 240px;
-  }
-
   .w-auto {
     width: auto;
   }
@@ -1167,11 +1161,6 @@
     line-height: var(--tw-leading, var(--text-sm--line-height));
   }
 
-  .text-xl {
-    font-size: var(--text-xl);
-    line-height: var(--tw-leading, var(--text-xl--line-height));
-  }
-
   .text-xs {
     font-size: var(--text-xs);
     line-height: var(--tw-leading, var(--text-xs--line-height));
@@ -1242,10 +1231,6 @@
 
   .text-gray-600 {
     color: var(--color-gray-600);
-  }
-
-  .text-muted {
-    color: var(--muted);
   }
 
   .text-muted-foreground {

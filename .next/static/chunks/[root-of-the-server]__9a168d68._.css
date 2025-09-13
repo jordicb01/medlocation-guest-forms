@@ -4,7 +4,7 @@
   font-style: normal;
   font-weight: 100 900;
   font-display: swap;
-  src: url("../media/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa2JL7W0Q5n_wU-s.91b7455f.woff2") format("woff2");
+  src: url("../media/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa2JL7W0Q5n_wU-s.7b98b85e.woff2") format("woff2");
   unicode-range: U+460-52F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
 }
 
@@ -13,7 +13,7 @@
   font-style: normal;
   font-weight: 100 900;
   font-display: swap;
-  src: url("../media/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa0ZL7W0Q5n_wU-s.927aef78.woff2") format("woff2");
+  src: url("../media/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa0ZL7W0Q5n_wU-s.51d01951.woff2") format("woff2");
   unicode-range: U+301, U+400-45F, U+490-491, U+4B0-4B1, U+2116;
 }
 
@@ -22,7 +22,7 @@
   font-style: normal;
   font-weight: 100 900;
   font-display: swap;
-  src: url("../media/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa2ZL7W0Q5n_wU-s.b7398c1c.woff2") format("woff2");
+  src: url("../media/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa2ZL7W0Q5n_wU-s.e91c5657.woff2") format("woff2");
   unicode-range: U+1F??;
 }
 
@@ -31,7 +31,7 @@
   font-style: normal;
   font-weight: 100 900;
   font-display: swap;
-  src: url("../media/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa1pL7W0Q5n_wU-s.ac666cb5.woff2") format("woff2");
+  src: url("../media/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa1pL7W0Q5n_wU-s.1e9d3edc.woff2") format("woff2");
   unicode-range: U+370-377, U+37A-37F, U+384-38A, U+38C, U+38E-3A1, U+3A3-3FF;
 }
 
@@ -176,8 +176,6 @@
     --text-base--line-height: calc(1.5 / 1);
     --text-lg: 1.125rem;
     --text-lg--line-height: calc(1.75 / 1.125);
-    --text-xl: 1.25rem;
-    --text-xl--line-height: calc(1.75 / 1.25);
     --text-2xl: 1.5rem;
     --text-2xl--line-height: calc(2 / 1.5);
     --font-weight-normal: 400;
@@ -725,10 +723,6 @@
     width: 100px;
   }
 
-  .w-\[240px\] {
-    width: 240px;
-  }
-
   .w-auto {
     width: auto;
   }
@@ -1246,11 +1240,6 @@
     line-height: var(--tw-leading, var(--text-sm--line-height));
   }
 
-  .text-xl {
-    font-size: var(--text-xl);
-    line-height: var(--tw-leading, var(--text-xl--line-height));
-  }
-
   .text-xs {
     font-size: var(--text-xs);
     line-height: var(--tw-leading, var(--text-xs--line-height));
@@ -1321,10 +1310,6 @@
 
   .text-gray-600 {
     color: var(--color-gray-600);
-  }
-
-  .text-muted {
-    color: var(--muted);
   }
 
   .text-muted-foreground {
