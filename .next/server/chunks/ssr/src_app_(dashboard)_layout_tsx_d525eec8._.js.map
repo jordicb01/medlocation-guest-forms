@@ -1,6 +1,0 @@
-{
-  "version": 3,
-  "sources": [],
-  "sections": [
-    {"offset": {"line": 7, "column": 0}, "map": {"version":3,"sources":["file:///Users/jordi/Desktop/PRJCTS/NextJS%20Apps/medlocation-guest-forms/src/app/%28dashboard%29/layout.tsx"],"sourcesContent":["interface Props {\n    children: React.ReactNode\n}\n\nconst Layout = ({ children }: Props) => {\n    return (\n        <div>\n            {children}\n        </div>\n    )\n}\n\nexport default Layout\n"],"names":[],"mappings":";;;;;AAIA,MAAM,SAAS,CAAC,EAAE,QAAQ,EAAS;IAC/B,qBACI,8OAAC;kBACI;;;;;;AAGb;uCAEe","debugId":null}}]
-}
