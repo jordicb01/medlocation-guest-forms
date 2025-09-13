@@ -2,5 +2,5 @@
   "version": 3,
   "sources": [],
   "sections": [
-    {"offset": {"line": 7, "column": 0}, "map": {"version":3,"sources":["file:///Users/jordi/Desktop/PRJCTS/NextJS%20Apps/medlocation-guest-forms/src/modules/home/ui/views/homeView.tsx"],"sourcesContent":["\"use client\"\n\nimport { Button } from \"@/src/components/ui/button\";\nimport { authClient } from \"@/src/lib/auth-client\";\nimport { useRouter } from \"next/navigation\";\n\nexport default function HomeView() {\n\n    return (\n        <div className=\"flex flex-col p-4 gap-y-4\" >\n\n        </div>\n    )\n}"],"names":[],"mappings":";;;;AAAA;;AAMe,SAAS;IAEpB,qBACI,8OAAC;QAAI,WAAU;;;;;;AAIvB","debugId":null}}]
+    {"offset": {"line": 7, "column": 0}, "map": {"version":3,"sources":["file:///Users/jordi/Desktop/PRJCTS/NextJS%20Apps/medlocation-guest-forms/src/modules/home/ui/views/homeView.tsx"],"sourcesContent":["\"use client\"\n\nexport default function HomeView() {\n\n    return (\n        <div className=\"flex flex-col p-4 gap-y-4\" >\n            Home view\n        </div>\n    )\n}"],"names":[],"mappings":";;;;AAAA;;AAEe,SAAS;IAEpB,qBACI,8OAAC;QAAI,WAAU;kBAA6B;;;;;;AAIpD","debugId":null}}]
 }

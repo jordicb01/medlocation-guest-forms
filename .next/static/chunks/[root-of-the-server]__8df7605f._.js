@@ -7313,11 +7313,11 @@ class Router {
                     });
                     return new Promise(()=>{});
                 }
-                const routerFilterSValue = ("TURBOPACK compile-time value", JSON.parse('{"numItems":4,"errorRate":0.0001,"numBits":77,"numHashes":14,"bitArray":[0,1,0,1,0,0,1,0,1,1,0,0,1,1,1,0,1,1,1,1,1,1,1,0,0,1,1,1,0,0,1,1,0,1,1,1,0,1,0,1,0,1,0,1,1,1,0,1,1,0,1,0,1,0,0,1,0,1,1,0,1,1,0,1,0,0,0,1,0,1,1,1,0,0,0,1,1]}'));
+                const routerFilterSValue = ("TURBOPACK compile-time value", JSON.parse('{"numItems":5,"errorRate":0.0001,"numBits":96,"numHashes":14,"bitArray":[1,0,0,1,0,0,0,1,0,1,0,1,0,1,0,0,0,0,0,1,0,1,0,1,0,1,1,0,1,0,0,0,1,0,0,0,1,1,1,0,0,0,0,1,1,0,1,1,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,0,0,0,0,1,0,1,1,0,1,1,0,0,1,1,1,0,1,1,0,0,1,1,0,0,1,1,1,0,1,1]}'));
                 if (!staticFilterData && routerFilterSValue) {
                     staticFilterData = routerFilterSValue ? routerFilterSValue : undefined;
                 }
-                const routerFilterDValue = ("TURBOPACK compile-time value", JSON.parse('{"numItems":1,"errorRate":0.0001,"numBits":20,"numHashes":14,"bitArray":[1,0,0,0,0,0,1,1,1,0,1,1,0,1,0,1,0,1,1,1]}'));
+                const routerFilterDValue = ("TURBOPACK compile-time value", JSON.parse('{"numItems":2,"errorRate":0.0001,"numBits":39,"numHashes":14,"bitArray":[0,1,0,0,1,1,0,1,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,1,0,0,1,1,1,0,0,1,0,0,0,0,1,0,1]}'));
                 if (!dynamicFilterData && routerFilterDValue) {
                     dynamicFilterData = routerFilterDValue ? routerFilterDValue : undefined;
                 }
@@ -19396,7 +19396,7 @@ _export(exports, {
 });
 const _react = __turbopack_context__.r("[project]/node_modules/react/index.js [client] (ecmascript)");
 const _shared = __turbopack_context__.r("[project]/node_modules/next/dist/client/components/react-dev-overlay/shared.js [client] (ecmascript)");
-const INDICATOR_POSITION = ("TURBOPACK compile-time value", "bottom-left") || 'bottom-left';
+const INDICATOR_POSITION = ("TURBOPACK compile-time value", "bottom-right") || 'bottom-left';
 function getInitialPosition() {
     if (typeof localStorage !== 'undefined' && localStorage.getItem(_shared.STORAGE_KEY_POSITION)) {
         return localStorage.getItem(_shared.STORAGE_KEY_POSITION);

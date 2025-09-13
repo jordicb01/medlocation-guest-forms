@@ -2580,19 +2580,19 @@ const DashboardUserButton = ()=>{
                                     src: session.user.image
                                 }, void 0, false, {
                                     fileName: "[project]/src/modules/dashboard/ui/components/dashboardUserButton.tsx",
-                                    lineNumber: 73,
+                                    lineNumber: 72,
                                     columnNumber: 33
                                 }, this)
                             }, void 0, false, {
                                 fileName: "[project]/src/modules/dashboard/ui/components/dashboardUserButton.tsx",
-                                lineNumber: 72,
+                                lineNumber: 71,
                                 columnNumber: 29
                             }, this) : /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$generatedAvatar$2e$tsx__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {
                                 seed: session.user.firstName + " " + session.user.lastName,
                                 className: "size-9 mr-3"
                             }, void 0, false, {
                                 fileName: "[project]/src/modules/dashboard/ui/components/dashboardUserButton.tsx",
-                                lineNumber: 76,
+                                lineNumber: 75,
                                 columnNumber: 29
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -2603,7 +2603,7 @@ const DashboardUserButton = ()=>{
                                         children: session.user.firstName + " " + session.user.lastName
                                     }, void 0, false, {
                                         fileName: "[project]/src/modules/dashboard/ui/components/dashboardUserButton.tsx",
-                                        lineNumber: 79,
+                                        lineNumber: 78,
                                         columnNumber: 29
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -2611,20 +2611,20 @@ const DashboardUserButton = ()=>{
                                         children: session.user.email
                                     }, void 0, false, {
                                         fileName: "[project]/src/modules/dashboard/ui/components/dashboardUserButton.tsx",
-                                        lineNumber: 82,
+                                        lineNumber: 81,
                                         columnNumber: 29
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/src/modules/dashboard/ui/components/dashboardUserButton.tsx",
-                                lineNumber: 78,
+                                lineNumber: 77,
                                 columnNumber: 25
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$chevron$2d$up$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__default__as__ChevronUp$3e$__["ChevronUp"], {
                                 className: "ml-auto"
                             }, void 0, false, {
                                 fileName: "[project]/src/modules/dashboard/ui/components/dashboardUserButton.tsx",
-                                lineNumber: 86,
+                                lineNumber: 85,
                                 columnNumber: 25
                             }, this)
                         ]
@@ -2646,20 +2646,20 @@ const DashboardUserButton = ()=>{
                                     children: session.user.firstName + " " + session.user.lastName
                                 }, void 0, false, {
                                     fileName: "[project]/src/modules/dashboard/ui/components/dashboardUserButton.tsx",
-                                    lineNumber: 91,
+                                    lineNumber: 90,
                                     columnNumber: 25
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$ui$2f$drawer$2e$tsx__$5b$app$2d$client$5d$__$28$ecmascript$29$__["DrawerDescription"], {
                                     children: session.user.email
                                 }, void 0, false, {
                                     fileName: "[project]/src/modules/dashboard/ui/components/dashboardUserButton.tsx",
-                                    lineNumber: 92,
+                                    lineNumber: 91,
                                     columnNumber: 25
                                 }, this)
                             ]
                         }, void 0, true, {
                             fileName: "[project]/src/modules/dashboard/ui/components/dashboardUserButton.tsx",
-                            lineNumber: 90,
+                            lineNumber: 89,
                             columnNumber: 21
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$ui$2f$drawer$2e$tsx__$5b$app$2d$client$5d$__$28$ecmascript$29$__["DrawerFooter"], {
@@ -2672,18 +2672,18 @@ const DashboardUserButton = ()=>{
                                                 children: item.title
                                             }, void 0, false, {
                                                 fileName: "[project]/src/modules/dashboard/ui/components/dashboardUserButton.tsx",
-                                                lineNumber: 97,
+                                                lineNumber: 96,
                                                 columnNumber: 33
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(item.icon, {}, void 0, false, {
                                                 fileName: "[project]/src/modules/dashboard/ui/components/dashboardUserButton.tsx",
-                                                lineNumber: 98,
+                                                lineNumber: 97,
                                                 columnNumber: 33
                                             }, this)
                                         ]
                                     }, item.title, true, {
                                         fileName: "[project]/src/modules/dashboard/ui/components/dashboardUserButton.tsx",
-                                        lineNumber: 96,
+                                        lineNumber: 95,
                                         columnNumber: 29
                                     }, this)),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$ui$2f$button$2e$tsx__$5b$app$2d$client$5d$__$28$ecmascript$29$__["Button"], {
@@ -2693,30 +2693,30 @@ const DashboardUserButton = ()=>{
                                             children: "Sign out"
                                         }, void 0, false, {
                                             fileName: "[project]/src/modules/dashboard/ui/components/dashboardUserButton.tsx",
-                                            lineNumber: 104,
+                                            lineNumber: 103,
                                             columnNumber: 29
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$log$2d$out$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__default__as__LogOut$3e$__["LogOut"], {}, void 0, false, {
                                             fileName: "[project]/src/modules/dashboard/ui/components/dashboardUserButton.tsx",
-                                            lineNumber: 105,
+                                            lineNumber: 104,
                                             columnNumber: 29
                                         }, this)
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/src/modules/dashboard/ui/components/dashboardUserButton.tsx",
-                                    lineNumber: 101,
+                                    lineNumber: 100,
                                     columnNumber: 25
                                 }, this)
                             ]
                         }, void 0, true, {
                             fileName: "[project]/src/modules/dashboard/ui/components/dashboardUserButton.tsx",
-                            lineNumber: 94,
+                            lineNumber: 93,
                             columnNumber: 21
                         }, this)
                     ]
                 }, void 0, true, {
                     fileName: "[project]/src/modules/dashboard/ui/components/dashboardUserButton.tsx",
-                    lineNumber: 89,
+                    lineNumber: 88,
                     columnNumber: 17
                 }, this)
             ]
@@ -2738,19 +2738,19 @@ const DashboardUserButton = ()=>{
                                 src: session.user.image
                             }, void 0, false, {
                                 fileName: "[project]/src/modules/dashboard/ui/components/dashboardUserButton.tsx",
-                                lineNumber: 120,
+                                lineNumber: 119,
                                 columnNumber: 29
                             }, this)
                         }, void 0, false, {
                             fileName: "[project]/src/modules/dashboard/ui/components/dashboardUserButton.tsx",
-                            lineNumber: 119,
+                            lineNumber: 118,
                             columnNumber: 25
                         }, this) : /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$generatedAvatar$2e$tsx__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {
                             seed: session.user.firstName + " " + session.user.lastName,
                             className: "size-9 mr-3"
                         }, void 0, false, {
                             fileName: "[project]/src/modules/dashboard/ui/components/dashboardUserButton.tsx",
-                            lineNumber: 123,
+                            lineNumber: 122,
                             columnNumber: 25
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -2761,7 +2761,7 @@ const DashboardUserButton = ()=>{
                                     children: session.user.firstName + " " + session.user.lastName
                                 }, void 0, false, {
                                     fileName: "[project]/src/modules/dashboard/ui/components/dashboardUserButton.tsx",
-                                    lineNumber: 126,
+                                    lineNumber: 125,
                                     columnNumber: 25
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -2769,31 +2769,31 @@ const DashboardUserButton = ()=>{
                                     children: session.user.email
                                 }, void 0, false, {
                                     fileName: "[project]/src/modules/dashboard/ui/components/dashboardUserButton.tsx",
-                                    lineNumber: 129,
+                                    lineNumber: 128,
                                     columnNumber: 25
                                 }, this)
                             ]
                         }, void 0, true, {
                             fileName: "[project]/src/modules/dashboard/ui/components/dashboardUserButton.tsx",
-                            lineNumber: 125,
+                            lineNumber: 124,
                             columnNumber: 21
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$chevron$2d$up$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__default__as__ChevronUp$3e$__["ChevronUp"], {
                             className: "ml-auto"
                         }, void 0, false, {
                             fileName: "[project]/src/modules/dashboard/ui/components/dashboardUserButton.tsx",
-                            lineNumber: 133,
+                            lineNumber: 132,
                             columnNumber: 21
                         }, this)
                     ]
                 }, void 0, true, {
                     fileName: "[project]/src/modules/dashboard/ui/components/dashboardUserButton.tsx",
-                    lineNumber: 116,
+                    lineNumber: 115,
                     columnNumber: 17
                 }, this)
             }, void 0, false, {
                 fileName: "[project]/src/modules/dashboard/ui/components/dashboardUserButton.tsx",
-                lineNumber: 115,
+                lineNumber: 114,
                 columnNumber: 13
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$ui$2f$dropdown$2d$menu$2e$tsx__$5b$app$2d$client$5d$__$28$ecmascript$29$__["DropdownMenuContent"], {
@@ -2811,23 +2811,23 @@ const DashboardUserButton = ()=>{
                                         children: item.title
                                     }, void 0, false, {
                                         fileName: "[project]/src/modules/dashboard/ui/components/dashboardUserButton.tsx",
-                                        lineNumber: 144,
+                                        lineNumber: 143,
                                         columnNumber: 29
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(item.icon, {}, void 0, false, {
                                         fileName: "[project]/src/modules/dashboard/ui/components/dashboardUserButton.tsx",
-                                        lineNumber: 145,
+                                        lineNumber: 144,
                                         columnNumber: 29
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/src/modules/dashboard/ui/components/dashboardUserButton.tsx",
-                                lineNumber: 143,
+                                lineNumber: 142,
                                 columnNumber: 25
                             }, this)
                         }, item.title, false, {
                             fileName: "[project]/src/modules/dashboard/ui/components/dashboardUserButton.tsx",
-                            lineNumber: 142,
+                            lineNumber: 141,
                             columnNumber: 21
                         }, this)),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$ui$2f$dropdown$2d$menu$2e$tsx__$5b$app$2d$client$5d$__$28$ecmascript$29$__["DropdownMenuItem"], {
@@ -2838,30 +2838,30 @@ const DashboardUserButton = ()=>{
                                 children: "Sign out"
                             }, void 0, false, {
                                 fileName: "[project]/src/modules/dashboard/ui/components/dashboardUserButton.tsx",
-                                lineNumber: 153,
+                                lineNumber: 152,
                                 columnNumber: 21
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$log$2d$out$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__default__as__LogOut$3e$__["LogOut"], {}, void 0, false, {
                                 fileName: "[project]/src/modules/dashboard/ui/components/dashboardUserButton.tsx",
-                                lineNumber: 154,
+                                lineNumber: 153,
                                 columnNumber: 21
                             }, this)
                         ]
                     }, void 0, true, {
                         fileName: "[project]/src/modules/dashboard/ui/components/dashboardUserButton.tsx",
-                        lineNumber: 149,
+                        lineNumber: 148,
                         columnNumber: 17
                     }, this)
                 ]
             }, void 0, true, {
                 fileName: "[project]/src/modules/dashboard/ui/components/dashboardUserButton.tsx",
-                lineNumber: 136,
+                lineNumber: 135,
                 columnNumber: 13
             }, this)
         ]
     }, void 0, true, {
         fileName: "[project]/src/modules/dashboard/ui/components/dashboardUserButton.tsx",
-        lineNumber: 114,
+        lineNumber: 113,
         columnNumber: 9
     }, this);
 };
@@ -2918,7 +2918,7 @@ const sidebarItems = [
     },
     {
         title: "Bookings",
-        url: "#",
+        url: "/bookings",
         icon: __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$calendar$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__default__as__Calendar$3e$__["Calendar"]
     },
     {
@@ -2938,7 +2938,7 @@ const DashboardSidebar = ()=>{
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$ui$2f$sidebar$2e$tsx__$5b$app$2d$client$5d$__$28$ecmascript$29$__["SidebarHeader"], {
                 children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {
                     href: "/",
-                    className: "flex item-center gap-2 px-2 pt-2",
+                    className: "flex items-center gap-2 px-2 pt-2",
                     children: [
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$image$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {
                             src: "/hublocation.svg",
@@ -2947,7 +2947,7 @@ const DashboardSidebar = ()=>{
                             alt: "hublocation"
                         }, void 0, false, {
                             fileName: "[project]/src/modules/dashboard/ui/components/dashboardSidebar.tsx",
-                            lineNumber: 62,
+                            lineNumber: 61,
                             columnNumber: 21
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -2955,18 +2955,18 @@ const DashboardSidebar = ()=>{
                             children: "Hublocation"
                         }, void 0, false, {
                             fileName: "[project]/src/modules/dashboard/ui/components/dashboardSidebar.tsx",
-                            lineNumber: 63,
+                            lineNumber: 62,
                             columnNumber: 21
                         }, this)
                     ]
                 }, void 0, true, {
                     fileName: "[project]/src/modules/dashboard/ui/components/dashboardSidebar.tsx",
-                    lineNumber: 61,
+                    lineNumber: 60,
                     columnNumber: 17
                 }, this)
             }, void 0, false, {
                 fileName: "[project]/src/modules/dashboard/ui/components/dashboardSidebar.tsx",
-                lineNumber: 60,
+                lineNumber: 59,
                 columnNumber: 13
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$ui$2f$sidebar$2e$tsx__$5b$app$2d$client$5d$__$28$ecmascript$29$__["SidebarContent"], {
@@ -2981,50 +2981,50 @@ const DashboardSidebar = ()=>{
                                             children: [
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(item.icon, {}, void 0, false, {
                                                     fileName: "[project]/src/modules/dashboard/ui/components/dashboardSidebar.tsx",
-                                                    lineNumber: 74,
+                                                    lineNumber: 73,
                                                     columnNumber: 45
                                                 }, this),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                                     children: item.title
                                                 }, void 0, false, {
                                                     fileName: "[project]/src/modules/dashboard/ui/components/dashboardSidebar.tsx",
-                                                    lineNumber: 75,
+                                                    lineNumber: 74,
                                                     columnNumber: 45
                                                 }, this)
                                             ]
                                         }, void 0, true, {
                                             fileName: "[project]/src/modules/dashboard/ui/components/dashboardSidebar.tsx",
-                                            lineNumber: 73,
+                                            lineNumber: 72,
                                             columnNumber: 41
                                         }, this)
                                     }, void 0, false, {
                                         fileName: "[project]/src/modules/dashboard/ui/components/dashboardSidebar.tsx",
-                                        lineNumber: 72,
+                                        lineNumber: 71,
                                         columnNumber: 37
                                     }, this)
                                 }, item.title, false, {
                                     fileName: "[project]/src/modules/dashboard/ui/components/dashboardSidebar.tsx",
-                                    lineNumber: 71,
+                                    lineNumber: 70,
                                     columnNumber: 33
                                 }, this))
                         }, void 0, false, {
                             fileName: "[project]/src/modules/dashboard/ui/components/dashboardSidebar.tsx",
-                            lineNumber: 69,
+                            lineNumber: 68,
                             columnNumber: 25
                         }, this)
                     }, void 0, false, {
                         fileName: "[project]/src/modules/dashboard/ui/components/dashboardSidebar.tsx",
-                        lineNumber: 68,
+                        lineNumber: 67,
                         columnNumber: 21
                     }, this)
                 }, void 0, false, {
                     fileName: "[project]/src/modules/dashboard/ui/components/dashboardSidebar.tsx",
-                    lineNumber: 67,
+                    lineNumber: 66,
                     columnNumber: 17
                 }, this)
             }, void 0, false, {
                 fileName: "[project]/src/modules/dashboard/ui/components/dashboardSidebar.tsx",
-                lineNumber: 66,
+                lineNumber: 65,
                 columnNumber: 13
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$ui$2f$sidebar$2e$tsx__$5b$app$2d$client$5d$__$28$ecmascript$29$__["SidebarFooter"], {
@@ -3032,28 +3032,28 @@ const DashboardSidebar = ()=>{
                     children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$ui$2f$sidebar$2e$tsx__$5b$app$2d$client$5d$__$28$ecmascript$29$__["SidebarMenuItem"], {
                         children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$modules$2f$dashboard$2f$ui$2f$components$2f$dashboardUserButton$2e$tsx__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {}, void 0, false, {
                             fileName: "[project]/src/modules/dashboard/ui/components/dashboardSidebar.tsx",
-                            lineNumber: 87,
+                            lineNumber: 86,
                             columnNumber: 25
                         }, this)
                     }, void 0, false, {
                         fileName: "[project]/src/modules/dashboard/ui/components/dashboardSidebar.tsx",
-                        lineNumber: 86,
+                        lineNumber: 85,
                         columnNumber: 21
                     }, this)
                 }, void 0, false, {
                     fileName: "[project]/src/modules/dashboard/ui/components/dashboardSidebar.tsx",
-                    lineNumber: 85,
+                    lineNumber: 84,
                     columnNumber: 17
                 }, this)
             }, void 0, false, {
                 fileName: "[project]/src/modules/dashboard/ui/components/dashboardSidebar.tsx",
-                lineNumber: 84,
+                lineNumber: 83,
                 columnNumber: 13
             }, this)
         ]
     }, void 0, true, {
         fileName: "[project]/src/modules/dashboard/ui/components/dashboardSidebar.tsx",
-        lineNumber: 59,
+        lineNumber: 58,
         columnNumber: 9
     }, this);
 };

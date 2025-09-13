@@ -67,7 +67,6 @@ const DashboardUserButton = () => {
             <Drawer>
                 <DrawerTrigger>
                     <SidebarMenuButton className="h-auto">
-                        {/* <User2 /> Username */}
                         {session.user.image ? (
                             <Avatar>
                                 <AvatarImage src={session.user.image} />
