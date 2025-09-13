@@ -14,7 +14,6 @@ import {
     SidebarFooter,
     SidebarGroup,
     SidebarGroupContent,
-    SidebarGroupLabel,
     SidebarHeader,
     SidebarMenu,
     SidebarMenuButton,
@@ -37,7 +36,7 @@ const sidebarItems = [
     },
     {
         title: "Bookings",
-        url: "#",
+        url: "/bookings",
         icon: Calendar,
     },
     {
@@ -58,7 +57,7 @@ const DashboardSidebar = () => {
     return (
         <Sidebar>
             <SidebarHeader>
-                <Link href="/" className="flex item-center gap-2 px-2 pt-2">
+                <Link href="/" className="flex items-center gap-2 px-2 pt-2">
                     <Image src="/hublocation.svg" height={35} width={35} alt="hublocation" />
                     <p className="text-2xl font-semibold">Hublocation</p>
                 </Link>
